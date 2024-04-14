@@ -19,7 +19,7 @@ img {
 }
 
 .hero {
-    background-image: url(/img/bg-min.jpg);
+    background-image: url(/img/hero.jpg);
     width: 1440px;
     height: 768px;
     background-color: #1e1823;
@@ -243,7 +243,7 @@ h1 {
 }
 
 .section-four {
-    background-image: url(/img/bgsec-min.jpg);
+    background-image: url(/img/hero-footer.jpg);
     width: 1440px;
     height: 499px;
     background-color: #1e1823;
